@@ -1,5 +1,6 @@
-# Project Name
-> Bike Sharing Demands prediction using Linear Regression
+# Bike Sharing Demands prediction using Linear Regression
+    
+> This project is to perform bike Sharing Demands prediction using Linear Regression which includes various methodologies like Data Preparation, Model Building and Model Evaluation,
 
 
 ## Table of Contents
